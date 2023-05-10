@@ -1,0 +1,13 @@
+[package]
+name = "unitytts"
+version = "0.1.0"
+authors = ["Sammwy"]
+edition = "2021"
+
+[lib]
+name = "unitytts"
+crate-type = ["cdylib"]
+
+[dependencies]
+lazy_static = "1.4.0"
+tts = "0.25.5"

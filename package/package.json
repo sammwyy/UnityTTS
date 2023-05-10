@@ -1,0 +1,16 @@
+{
+  "name": "com.sammwy.unitytts",
+  "version": "0.0.1",
+  "displayName": "UnityTTS",
+  "description": "Text-to-speech (TTS) plugin for Unity.",
+  "unity": "2021.3",
+  "unityRelease": "3f1",
+  "keywords": [
+    "tts",
+    "text-to-speech"
+  ],
+  "author": {
+    "name": "Sammwy",
+    "url": "https://github.com/sammwyy"
+  }
+}

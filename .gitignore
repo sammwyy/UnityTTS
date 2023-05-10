@@ -3,12 +3,12 @@ Desktop.ini
 .DS_Store
 *.swp
 
-/Library
-/Logs
-/Recordings
-/Temp
-/UserSettings
+/package/Library
+/package/Logs
+/package/Recordings
+/package/Temp
+/package/UserSettings
 
-/Plugin/*.bundle
-/Plugin/*.lock
-/Plugin/target
+*.bundle
+*.lock
+target
